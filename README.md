@@ -24,6 +24,7 @@ O planejamento e o acompanhamento do desenvolvimento foram realizados por meio d
 - **Features:** agrupam as funcionalidades necessárias para atender aos objetivos de cada Epic.
 - **Product Backlog Items (PBIs):** descrevem os requisitos funcionais e as histórias de usuário, com suas respectivas descrições e critérios de aceite.
 - **Tasks:** detalham as atividades técnicas necessárias para a implementação dos PBIs.
+- **Testes:"" testes automatizados com input e output do que é esperado que a API retorne para o user.
 
 Essa estrutura permitiu organizar as entregas, estabelecer prioridades e acompanhar a evolução das funcionalidades ao longo do desenvolvimento.
 
